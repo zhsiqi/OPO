@@ -35,7 +35,7 @@ for hitem in hard:
     jieba.add_word(hitem)
 
 # 中文分词
-txt = open('weibo.txt', encoding='utf-8').read()
+txt = open('weibo.txt', encoding='utf-8').read() #此数据文件来自自行清洗数据后导出
 txtlist = jieba.cut(txt)
 
 counts = {} 
