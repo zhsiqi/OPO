@@ -1,5 +1,5 @@
 # OPO
-A tutorial for research assistants to process online public opinion data collected by The Media and Public Opinion Research Center, Fudan University.
+A tutorial for research assistants to process Online Public Opinion data collected by The Media and Public Opinion Research Center, Fudan University.
 ⚠️ Original online public opinion data are not available here.
 
 ## Project
